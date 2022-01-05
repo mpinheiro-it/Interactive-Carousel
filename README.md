@@ -2,7 +2,7 @@
 
 Slider / Carousel de tela cheia feito com Javascript.
 
-##User Stories
+## User Stories
 
 - O usuário pode ver as imagens mudando a cada X segundos.
 - Usuário pode clicar em botões de anterior e próximo para mudar para a imagem correspondente.
